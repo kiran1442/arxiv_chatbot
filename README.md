@@ -39,18 +39,17 @@ ArchiBot is an intelligent chatbot designed to assist users in querying research
 <!--start code-->
 ### Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 <!--end code-->
 
 - Set the GROQ API key
 
-
 <!--start code-->
 
 ### Run the application:
 
-streamlit run app.py
+    streamlit run app.py
 
 <!--end code-->
 
